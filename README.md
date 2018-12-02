@@ -1,1 +1,2 @@
-# Android-Pertemuan3
+# Mempelajari Tentang :
+1. Penerapan RecyclerView
